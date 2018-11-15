@@ -1,0 +1,57 @@
+﻿已經開始建置於 2016/11/9 下午 09:02:50。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\Jiang\Desktop\WaterColor\WaterColor\WaterColor.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\main.cpp
+         main.cpp
+     1>c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(130): warning C4005: 'APIENTRY' : 巨集重複定義
+                 c:\users\jiang\desktop\watercolor\openglsdk\glfw-3.2.bin.win32\include\glfw\glfw3.h(98) : 請參閱 'APIENTRY' 之前的定義
+     1>c:\users\jiang\desktop\watercolor\main.cpp(816): warning C4258: 'k' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\users\jiang\desktop\watercolor\main.cpp(736) : 已忽略 'k' 的定義
+                 c:\users\jiang\desktop\watercolor\main.cpp(21) : 已使用 'k' 的定義
+     1>c:\users\jiang\desktop\watercolor\main.cpp(842): warning C4258: 'k' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\users\jiang\desktop\watercolor\main.cpp(736) : 已忽略 'k' 的定義
+                 c:\users\jiang\desktop\watercolor\main.cpp(21) : 已使用 'k' 的定義
+     1>c:\users\jiang\desktop\watercolor\main.cpp(848): warning C4258: 'k' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\users\jiang\desktop\watercolor\main.cpp(736) : 已忽略 'k' 的定義
+                 c:\users\jiang\desktop\watercolor\main.cpp(21) : 已使用 'k' 的定義
+     1>c:\users\jiang\desktop\watercolor\main.cpp(854): warning C4258: 'k' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\users\jiang\desktop\watercolor\main.cpp(736) : 已忽略 'k' 的定義
+                 c:\users\jiang\desktop\watercolor\main.cpp(21) : 已使用 'k' 的定義
+     1>c:\users\jiang\desktop\watercolor\main.cpp(860): warning C4258: 'k' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\users\jiang\desktop\watercolor\main.cpp(736) : 已忽略 'k' 的定義
+                 c:\users\jiang\desktop\watercolor\main.cpp(21) : 已使用 'k' 的定義
+     1>c:\users\jiang\desktop\watercolor\main.cpp(866): warning C4258: 'k' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\users\jiang\desktop\watercolor\main.cpp(736) : 已忽略 'k' 的定義
+                 c:\users\jiang\desktop\watercolor\main.cpp(21) : 已使用 'k' 的定義
+     1>c:\users\jiang\desktop\watercolor\main.cpp(872): warning C4258: 'k' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\users\jiang\desktop\watercolor\main.cpp(736) : 已忽略 'k' 的定義
+                 c:\users\jiang\desktop\watercolor\main.cpp(21) : 已使用 'k' 的定義
+     1>c:\users\jiang\desktop\watercolor\main.cpp(878): warning C4258: 'k' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\users\jiang\desktop\watercolor\main.cpp(736) : 已忽略 'k' 的定義
+                 c:\users\jiang\desktop\watercolor\main.cpp(21) : 已使用 'k' 的定義
+     1>c:\users\jiang\desktop\watercolor\main.cpp(884): warning C4258: 'k' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\users\jiang\desktop\watercolor\main.cpp(736) : 已忽略 'k' 的定義
+                 c:\users\jiang\desktop\watercolor\main.cpp(21) : 已使用 'k' 的定義
+     1>c:\users\jiang\desktop\watercolor\main.cpp(890): warning C4258: 'k' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\users\jiang\desktop\watercolor\main.cpp(736) : 已忽略 'k' 的定義
+                 c:\users\jiang\desktop\watercolor\main.cpp(21) : 已使用 'k' 的定義
+     1>c:\users\jiang\desktop\watercolor\main.cpp(896): warning C4258: 'k' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\users\jiang\desktop\watercolor\main.cpp(736) : 已忽略 'k' 的定義
+                 c:\users\jiang\desktop\watercolor\main.cpp(21) : 已使用 'k' 的定義
+     1>c:\users\jiang\desktop\watercolor\main.cpp(902): warning C4258: 'k' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\users\jiang\desktop\watercolor\main.cpp(736) : 已忽略 'k' 的定義
+                 c:\users\jiang\desktop\watercolor\main.cpp(21) : 已使用 'k' 的定義
+     1>c:\users\jiang\desktop\watercolor\main.cpp(908): warning C4258: 'k' : 已忽略來自 for 迴圈的定義; 使用封閉範圍的定義
+                 c:\users\jiang\desktop\watercolor\main.cpp(736) : 已忽略 'k' 的定義
+                 c:\users\jiang\desktop\watercolor\main.cpp(21) : 已使用 'k' 的定義
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jiang\Desktop\WaterColor\Debug\WaterColor.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\openglSDK\glui-2.36\src\msvc\lib" glfw3.lib opengl32.lib glew32s.lib glut32.lib glu32.lib glui32d.lib glui32dlld.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:libc.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Jiang\Desktop\WaterColor\Debug\WaterColor.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jiang\Desktop\WaterColor\Debug\WaterColor.lib" /MACHINE:X86 Debug\main.obj
+     1>LINK : warning LNK4098: 預設的程式庫 'MSVCRT' 與其他使用的程式庫衝突，請使用 /NODEFAULTLIB:library
+     1>LINK : warning LNK4098: 預設的程式庫 'LIBCMT' 與其他使用的程式庫衝突，請使用 /NODEFAULTLIB:library
+     1>glew32s.lib(glew.obj) : warning LNK4099: 找不到 PDB 'vc120.pdb' (有 'glew32s.lib(glew.obj)' 或位於 'C:\Users\Jiang\Desktop\WaterColor\Debug\vc120.pdb')，當做沒有偵錯資訊，連結物件
+         WaterColor.vcxproj -> C:\Users\Jiang\Desktop\WaterColor\Debug\WaterColor.exe
+     1>專案 "C:\Users\Jiang\Desktop\WaterColor\WaterColor\WaterColor.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:01.44
